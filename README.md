@@ -1,7 +1,5 @@
 📊 Retail Performance Dashboard – Power BI
 ---
----
-
 This dashboard provides a comprehensive and dynamic view of retail performance, using a collection of core KPIs that cover revenue, total sales, number of transactions, average sales per transaction, and average transaction value. These indicators collectively offer a clear and immediate understanding of overall business health.
 
 ---
